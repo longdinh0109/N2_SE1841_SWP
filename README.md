@@ -7,7 +7,7 @@
 ● Tutor: user who uses the app to create their service to support students about the subject. They can create a rental service by hour, upload academic videos to advertisements for their service. (web app) 
 ● Moderator: a user is responsible for content moderation and complaints on the website. ● Administrator: a privileged user who can manage the entire system.
 
-# Table 1 : User Stories of Each Sprint 
+## Table 1 : User Stories of Each Sprint 
 
 | Sprint | User Story ID | Description|
 |--------------|-------|------|
