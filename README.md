@@ -44,3 +44,24 @@
 | Sprint 3 | N2SE1841_74 | Verify that a guest cannot access restricted features like chat or rating | 
 | Sprint 3 | N2SE1841_75 | Verify that a guest is prompted to register when trying to access restricted features | 
 | Sprint 4 | 4 x 1 | 4 x 2 |
+
+## Table 2: Member Assignment for Sprint  
+
+| Member  | User Story ID | Description|
+|--------------|-------|------|
+| Le Ha An | N2SE1841_84 | 1 x 2 |
+| Le Ha An | N2SE1841_87 | 2 x 2 |
+| Le Ha An | N2SE1841_91 | 3 x 2 |
+| Pham Dang Thang Truc | N2SE1841_92 | 4 x 2 |
+| Pham Dang Thang Truc | N2SE1841_93 | 1 x 2 |
+| Pham Dang Thang Truc | N2SE1841_95 | 2 x 2 |
+| Nguyen Huu Tan | N2SE1841_96 | 3 x 2 |
+| Nguyen Huu Tan | N2SE1841_85 | 4 x 2 |
+| Nguyen Huu Tan | N2SE1841_79 | 1 x 2 |
+| Le Khanh Linh | N2SE1841_83 | 2 x 2 |
+| Le Khanh Linh | N2SE1841_80 | 3 x 2 |
+| Le Khanh Linh | N2SE1841_81 | 4 x 2 |
+| Le Doan Nhat Lam | N2SE1841_69 | 1 x 2 |
+| Le Doan Nhat Lam | N2SE1841_70 | 2 x 2 |
+| Dinh Tieu Long | N2SE1841_71 | 3 x 2 |
+| Dinh Tieu Long | N2SE1841_72 | 4 x 2 |
