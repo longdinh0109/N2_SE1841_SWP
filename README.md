@@ -49,19 +49,19 @@
 
 | Member  | User Story ID | Description|
 |--------------|-------|------|
-| Le Ha An | N2SE1841_84 | 1 x 2 |
-| Le Ha An | N2SE1841_87 | 2 x 2 |
-| Le Ha An | N2SE1841_91 | 3 x 2 |
-| Pham Dang Thang Truc | N2SE1841_92 | 4 x 2 |
-| Pham Dang Thang Truc | N2SE1841_93 | 1 x 2 |
-| Pham Dang Thang Truc | N2SE1841_95 | 2 x 2 |
-| Nguyen Huu Tan | N2SE1841_96 | 3 x 2 |
-| Nguyen Huu Tan | N2SE1841_85 | 4 x 2 |
-| Nguyen Huu Tan | N2SE1841_79 | 1 x 2 |
-| Le Khanh Linh | N2SE1841_83 | 2 x 2 |
-| Le Khanh Linh | N2SE1841_80 | 3 x 2 |
-| Le Khanh Linh | N2SE1841_81 | 4 x 2 |
-| Le Doan Nhat Lam | N2SE1841_69 | 1 x 2 |
-| Le Doan Nhat Lam | N2SE1841_70 | 2 x 2 |
-| Dinh Tieu Long | N2SE1841_71 | 3 x 2 |
-| Dinh Tieu Long | N2SE1841_72 | 4 x 2 |
+| Le Ha An | N2SE1841_84 | User Registration |
+| Le Ha An | N2SE1841_87 | User Registration |
+| Le Ha An | N2SE1841_91 | User Registration |
+| Pham Dang Thang Truc | N2SE1841_92 | User Registration |
+| Pham Dang Thang Truc | N2SE1841_93 | User Login |
+| Pham Dang Thang Truc | N2SE1841_95 | User Login |
+| Nguyen Huu Tan | N2SE1841_96 | Password Recovery |
+| Nguyen Huu Tan | N2SE1841_85 | Tutor Profile Creation |
+| Nguyen Huu Tan | N2SE1841_79 | Search Tutor |
+| Le Khanh Linh | N2SE1841_83 | Search Tutor |
+| Le Khanh Linh | N2SE1841_80 | Chat with Tutor |
+| Le Khanh Linh | N2SE1841_81 | Chat with Tutor|
+| Le Doan Nhat Lam | N2SE1841_69 | Content Moderation |
+| Le Doan Nhat Lam | N2SE1841_70 | Content Moderation |
+| Dinh Tieu Long | N2SE1841_71 | Content Moderation |
+| Dinh Tieu Long | N2SE1841_72 | Content Moderation |
