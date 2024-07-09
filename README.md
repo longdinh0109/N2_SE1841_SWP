@@ -28,7 +28,7 @@
 ## Table 3: Member Assignment for Sprint 2
 ●Long: UC2, UC3, UC4  
 ●Lam: UC6, UC7  
-●Truc: UC8,    
+●Truc: UC8    
 ●Linh: UC26 
 ●An: UC15, UC16, UC18  
 ●Tan: UC10, UC11, UC12
